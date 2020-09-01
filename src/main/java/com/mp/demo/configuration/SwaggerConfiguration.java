@@ -41,19 +41,6 @@ public class SwaggerConfiguration {
                 .licenseUrl("https://github.com/springfox/springfox/blob/master/LICENSE")
                 .version("2.0")
 				.build();
-				
-       /* ApiInfo apiInfo = new ApiInfo(
-        		
-                "Spring Boot REST API",
-                "Spring Boot REST API for Online Store",
-                "1.0",
-                "Terms of service",
-                new Contact("NIlesh Jambhulkar",
-                		    "https://springframework",
-                		     "nilesh@springfrmework.guru"),
-               "Apache License Version 2.0",
-                "https://www.apache.org/licenses/LICENSE-2.0");
-        return apiInfo;*/
     }
 
 }
